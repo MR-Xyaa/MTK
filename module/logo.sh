@@ -15,9 +15,10 @@ sleep 5
 
 # tampilan
 clear
-echo SABAR YA GESS YAA ● | lolcat
+echo ● SABAR YA GESS YAA ● | lolcat
  sleep 5
-toilet -f big -F gay MTK | lolcat
+clear
+toilet -f big -F gay ☆MTK☆ | lolcat
 echo "=============================================" | lolcat
 echo "[•] Author : MR-Xyaa                         "
 echo "[•] FB     : Xyaa Xyaa                         "
