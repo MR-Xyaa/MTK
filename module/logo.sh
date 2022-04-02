@@ -13,5 +13,4 @@ echo "[•] Author : MR-Xyaa                         "
 echo "[•] FB     : Xyaa Xyaa                         "
 echo "[•] GitHub : github.com/MR-Xyaa              "
 echo "=============================================" | lolcat
-echo Silakan Menghitung |lolcat
 
