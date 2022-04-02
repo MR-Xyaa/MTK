@@ -1,5 +1,5 @@
 # INSTALL 
-```bash
+```python
 pkg update && pkg upgrade
 pkg install php
 pkg install git
